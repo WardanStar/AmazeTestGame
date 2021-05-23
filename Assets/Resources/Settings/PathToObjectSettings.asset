@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eace860bc0d8480d9c57b9da5f9304ca, type: 3}
+  m_Name: PathToObjectSettings
+  m_EditorClassIdentifier: 
+  _pathToBarrier: Prefab/Barrier
+  _pathToNotVisitedCube: Prefab/NotVisitedCube
+  _pathToVisitedCube: Prefab/VisitedCube
+  _pathToIllusionCube: Prefab/SelectionCube
+  _pathToSphere: Prefab/Sphere
+  _pathToStartPoint: Prefab/StartPoint
